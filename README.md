@@ -52,6 +52,7 @@ A curated list of engineering blog of startup and enterprise company.
 * [Medallia](http://engineering.medallia.com/blog/) - Medallia Engineering Blog.
 * [Monetate](http://engineering.monetate.com/) - Monetate Engineering Blog.
 * [Netflix](http://techblog.netflix.com/) - Netflix Tech Blog.
+* [OpenX](http://codinginadtech.com/) - OpenX Engineering Blog.
 * [Oyster](http://tech.oyster.com/) - Insights from Oyster.com's Tech Team.
 * [PayPal](https://www.paypal-engineering.com/) - PayPal Engineering.
 * [Phyramid](https://www.phyramid.com/blog/) - Phyramid Blog.
